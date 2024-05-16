@@ -5,7 +5,7 @@ Bem vindo ao repositório de laboratórios do bootcamp de Engenharia de Platafor
 
 O curso é composto por 5 módulos e aqui teremos os laboratórios separados por assunto dentro dos módulos para facilitar o aprendizado. 
 
-Fique à vontade para fazer um clone de qualquer repositório e começar a praticar mesmo que ainda não tenha tido a aula sobre o assunto, aproveite para tentar entender um pouco sozinho e trazer o máximo possível de dúvidas que forem aparecendo quando estiver praticando, a idéia das aulas é ser um momento de troca e para isto você aluno precisa usar este momento para isto. :)
+Fique à vontade para fazer um clone de qualquer repositório e começar a praticar mesmo que ainda não tenha tido a aula sobre o assunto, aproveite para tentar entender um pouco sozinho e trazer o máximo possível de dúvidas que forem aparecendo quando estiver praticando. A idéia das aulas é ser um momento de troca e para isto você, aluno, precisa trazer dúvidas, sugestões e experiências também para este momento. Aproveite 😊
 
 
 ### MÓDULO 1 - Introdução à Cultura DevOps
